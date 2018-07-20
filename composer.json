@@ -3,6 +3,12 @@
     "description": "CakeDepo/AdminTheme plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Maxo Matos",
+            "role": "Author"
+        }
+    ],
     "require": {
         "cakephp/cakephp": "3.*"
     },
