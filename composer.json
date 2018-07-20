@@ -1,6 +1,6 @@
 {
     "name": "cakedepo/admintheme",
-    "description": "CakeDepo/AdminTheme plugin for CakePHP",
+    "description": "CakeDepo/AdminTheme  plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
     "require": {
